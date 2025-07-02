@@ -1,5 +1,10 @@
-# Excel-like Spreadsheet Component
+# Excel Spreadsheet Component
 
+![Excel Spreadsheet Demo](/public/cover.png)
+
+> **Excel Spreadsheet** is a modern, responsive spreadsheet component built with Next.js 15, TypeScript, and Tailwind CSS.
+visit: https://asmatrahman.github.io/excel-spreadsheet/
+---
 A modern, responsive spreadsheet component built with Next.js 15, TypeScript, and Tailwind CSS.
 
 ## Features
